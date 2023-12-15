@@ -20,7 +20,7 @@
 
 *  I’m currently working on
   - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil)
-  - [Bag Store](github.com/shadymohamed532001/Bag-Online-Store)
+  - [Bag Store](https://github.com/shadymohamed532001/BagStore)
   - [Doc](https://github.com/shadymohamed532001/Doc)
   - [Notely](https://github.com/shadymohamed532001/Notely) 
 
