@@ -19,6 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" /> </p>
 
 *  I’m currently working on
+  - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil)
   - [Bag Store](github.com/shadymohamed532001/Bag-Online-Store)
   - [Doc](https://github.com/shadymohamed532001/Doc)
   - [Notely](https://github.com/shadymohamed532001/Notely) 
