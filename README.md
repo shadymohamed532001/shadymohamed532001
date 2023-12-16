@@ -8,11 +8,11 @@
  -->
  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;building%20and%20shipping%20apps%20robust%20toAndroid/iOS&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;Improve%20Constantly,%20Code%20Better&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;writing%20readable,%20and%20clear%20code%20using%20Dart&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
  <img align="right" alt="GIF" src="https://i.gifer.com/5eKX.gif" width="500" height="320" />
