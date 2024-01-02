@@ -16,17 +16,23 @@
 </p>
 
  <img align="right" alt="GIF" src="https://i.gifer.com/5eKX.gif" width="500" height="320" />
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" /> </p>
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
 
-*  I’m currently working on
+
+* 🔭 I’m currently working on
   - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil)
-  - [Bag Store](https://github.com/shadymohamed532001/BagStore)
+  - [Eko Store](https://github.com/shadymohamed532001/eko_store)
   - [Doc](https://github.com/shadymohamed532001/Doc)
   - [Notely](https://github.com/shadymohamed532001/Notely) 
-
-
   
-* I’m currently learning everything I can find about **Flutter**, Learning never stops!
+* 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
+
+* 👯 I’m looking to collaborate on **Flutter Projects**
+
+* 💬 Ask me about anything about **Flutter**
+
 
 ## 📫 Connect With Me
 
