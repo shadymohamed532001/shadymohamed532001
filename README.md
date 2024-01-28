@@ -23,6 +23,7 @@
 
 * 🔭 I’m currently working on
   - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil)
+  - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store)
   - [Eko Store](https://github.com/shadymohamed532001/eko_store)
   - [Doc](https://github.com/shadymohamed532001/Doc)
   - [Notely](https://github.com/shadymohamed532001/Notely) 
