@@ -2,29 +2,31 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
-
-<!-- <h3 align="center">A Mobile Application Developer With A Passion For Cross-Platform Development Using Flutter</h3>
- -->
- 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;building%20and%20shipping%20apps%20robust%20toAndroid/iOS&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;building%20and%20shipping%20apps%20robust%20to%20Android/iOS&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;writing%20readable,%20and%20clear%20code%20using%20Dart&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
- <img align="right" alt="GIF" src="https://i.gifer.com/5eKX.gif" width="500" height="320" />
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" /> </p>
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
+<div align="right">
+  <img src="https://i.gifer.com/5eKX.gif" width="500" height="320" />
+</div>
 
 
-* 🔭 I’m currently working on
+<div align="right">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
+</div>
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" />
+</div>
+
+
+* 🔭 I’m currently working on:
   - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil) (Public repo)
-  - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store)(private repo)
-  - [Eko Store](https://github.com/shadymohamed532001/eko_store)(private repo)
+  - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store) (private repo)
+  - [Eko Store](https://github.com/shadymohamed532001/eko_store) (private repo)
   - [Notely](https://github.com/shadymohamed532001/Notely) (Public repo)
   - [GreanLeaf](https://github.com/shadymohamed532001/Greenleaf) (Public repo)
   
@@ -60,4 +62,3 @@
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?
-
