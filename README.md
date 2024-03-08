@@ -22,11 +22,11 @@
 
 
 * 🔭 I’m currently working on
-  - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil)
-  - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store)
-  - [Eko Store](https://github.com/shadymohamed532001/eko_store)
-  - [Doc](https://github.com/shadymohamed532001/Doc)
-  - [Notely](https://github.com/shadymohamed532001/Notely) 
+  - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil) (Public repo)
+  - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store)(private repo)
+  - [Eko Store](https://github.com/shadymohamed532001/eko_store)(private repo)
+  - [Notely](https://github.com/shadymohamed532001/Notely) (Public repo)
+  - [GreanLeaf](https://github.com/shadymohamed532001/Greenleaf) (Public repo)
   
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
 
