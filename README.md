@@ -26,7 +26,7 @@
 * 🔭 I’m currently working on:
   - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil) (private repo)
   - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store) (private repo)
-  - [Eko Store](https://github.com/shadymohamed532001/eko_store) (private repo)
+  - [AutoMechanicAdvisor](https://github.com/shadymohamed532001/AutoMechanicAdvisor) (private repo)
   - [Notely](https://github.com/shadymohamed532001/Notely) (Public repo)
   - [GreanLeaf](https://github.com/shadymohamed532001/Greenleaf) (Public repo)
   
