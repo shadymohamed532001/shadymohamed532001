@@ -24,7 +24,7 @@
 
 
 * 🔭 I’m currently working on:
-  - [SmartSoil](https://github.com/shadymohamed532001/SmartSoil) (private repo)
+  - [Agri-tech360](https://github.com/shadymohamed532001/Agri-tech360) (private repo)
   - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store) (private repo)
   - [AutoMechanicAdvisor](https://github.com/shadymohamed532001/AutoMechanicAdvisor) (private repo)
   - [Notely](https://github.com/shadymohamed532001/Notely) (Public repo)
