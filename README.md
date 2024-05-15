@@ -41,7 +41,7 @@
 ## 📫 Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/shady-182311230/)
+)](https://www.linkedin.com/in/shady-steha-182311230/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shadysteha571@gmail.com)](mailto:shadysteha571@gmail.com)
 
 ## 💻 Languages and Tools:
