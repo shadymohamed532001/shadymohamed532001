@@ -22,13 +22,10 @@
   <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" />
 </div>
 
-
 * 🔭 I’m currently working on:
-  - [Agri-tech360](https://github.com/shadymohamed532001/Agri-tech360) (private repo)
-  - [spaceX ](https://github.com/shadymohamed532001/spaceX) (Public repo)
-  - [Notely](https://github.com/shadymohamed532001/Notely) (Public repo)
-  - [ResponsivAndAadaptiveUi](https://github.com/shadymohamed532001/ResponsivAndAadaptiveUi) (Public repo)
+  - [Fruits-Hup](https://github.com/shadymohamed532001/Fruits-Hup) (private repo)
   - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store) (private repo)
+  - [Agri-tech360-Graduation-project](https://github.com/shadymohamed532001/Agri-tech360-Graduation-project) (public repo)
 
   
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
