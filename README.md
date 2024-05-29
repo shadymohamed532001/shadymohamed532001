@@ -51,12 +51,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shadymohamed532001&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadymohamed532001&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadymohamed532001&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
+
