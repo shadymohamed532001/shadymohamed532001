@@ -23,9 +23,10 @@
 </div>
 
 * 🔭 I’m currently working on:
+  - [Gym-Dream](https://github.com/shadymohamed532001/Gym-Dream) (private repo)
+  - [Agri-tech360-Graduation-project](https://github.com/shadymohamed532001/Agri-tech360-Graduation-project) (public repo)
   - [Fruits-Hup](https://github.com/shadymohamed532001/Fruits-Hup) (private repo)
   - [Bag-Online-Store](https://github.com/shadymohamed532001/Bag-Online-Store) (private repo)
-  - [Agri-tech360-Graduation-project](https://github.com/shadymohamed532001/Agri-tech360-Graduation-project) (public repo)
 
   
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
