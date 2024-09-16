@@ -10,15 +10,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;writing%20readable,%20and%20clear%20code%20using%20Dart&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
 
+<p>
+I'm Shady Mohamed Steha, an experienced Flutter developer who is passionate about producing high-quality mobile applications. I'm an expert in building cross-platform apps using Flutter, and I have developed a deep understanding of Dart and the Flutter framework. My expertise includes designing beautiful and responsive layouts, utilizing efficient state management techniques, and integrating various APIs and third-party libraries to enhance my clients' applications. My focus is always on delivering high-quality, innovative mobile apps that exceed expectations.
+
+My passion for innovation drives me to stay up-to-date with industry changes, attend conferences, network with other developers, and read tech blogs. I believe that communication is key to successful collaboration, and I strive to work closely with my clients throughout the development process to ensure their vision is realized.
+</p>
+
 <div align="right">
   <img src="https://i.gifer.com/5eKX.gif" width="500" height="320" />
 </div>
-
-
-
 <div align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shadymohamed532001&label=Profile%20views&color=0e75b6&style=flat" alt="shadymohamed532001" />
 </div>
+<br/>
 
 * 🔭 I’m currently working on:
   - [Gym-Dream](https://github.com/shadymohamed532001/Gym-Dream) (private repo)
@@ -32,7 +36,7 @@
 * 👯 I’m looking to collaborate on **Flutter Projects**
 
 * 💬 Ask me about anything about **Flutter**
-
+<br/>
 
 ## 📫 Connect With Me
 
@@ -48,8 +52,6 @@
 </div>
 <br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shadymohamed532001&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
 
 
