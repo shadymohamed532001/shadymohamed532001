@@ -103,7 +103,9 @@ An e-learning application with multiple user panels and role-based experiences f
 
 ---
 
-### GOGO
+### GOGO - Your Perfect App for Booking Passenger Rides Quickly and Easily
+
+Enjoy a seamless travel experience with GOGO, the smart app that connects you with available drivers anytime, anywhere.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eyad.gogo)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/gogo/id6752616214)
