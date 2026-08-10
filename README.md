@@ -44,8 +44,19 @@ A food delivery platform that connects customers, restaurants, and drivers. I co
 
 **Tech:** Flutter, Dart, REST APIs, State Management
 
+**EatYummy Customer App**
+
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=eat%20yummy&c=apps)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/eatyummy/id6754251566)
+
+**EatYummy Driver App**
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eatyummy.driver)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/eatyummy-driver/id6757953514)
+
+**EatYummy Restaurant Dashboard**
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eatyummy.admin_restaurant)
 
 ---
 
@@ -56,6 +67,7 @@ A social media and educational platform built for farmers, providing industry co
 **Tech:** Flutter, Dart, BLoC, Firebase
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aiot.poultry)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/the-poultry/id6743346393)
 
 ---
 
@@ -87,6 +99,7 @@ An e-learning application with multiple user panels and role-based experiences f
 **Tech:** Flutter, Dart, BLoC, Firebase
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aoit.souvenir.prod)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/souvenir/id6743029470)
 
 ## 📫 Connect with Me
 
